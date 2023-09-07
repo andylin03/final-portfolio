@@ -84,7 +84,7 @@ function Experience() {
                     icon={<WorkIcon />}
                 >
                     <h3 className="vertical-timeline-element-title">
-                         NECA, Hillside, NJ, Informatics Intern
+                         NECA, Hillside, NJ, Product Manager
                     </h3>
                     <p>Product Manager</p>
                 </VerticalTimelineElement>
