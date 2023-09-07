@@ -1,7 +1,5 @@
 import React from "react";
 import ProjectItem from "../components/ProjectItem";
-import Game from '../assets/game.jpg';
-import Weather from '../assets/weather.jpg';
 import { ProjectList } from "../helpers/ProjectList";
 
 import "../styles/Project.css";
