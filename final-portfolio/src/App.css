@@ -1,4 +1,10 @@
 .App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #f0f0f0;
   text-align: center;
 }
 
