@@ -18,7 +18,7 @@ export const ProjectList = [
     },
     {
         name: "Social Media Tech Blog",
-        image: Social,
+        image: Blog,
         skills: "ad",
     },
     {

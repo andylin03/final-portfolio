@@ -21,15 +21,16 @@ function ProjectDisplay() {
 
     return (
         <div className="project">
-            <h1>{project.name}</h1>
-            <img src={project.image} alt={project.name} />
-            <p>
+            <h1 className="project-title">{project.name}</h1>
+            <img className="project-image" src={project.image} alt={project.name} />
+            <p className="project-skills">
                 <b>Skills:</b> {project.skills}
             </p>
-            <GitHubIcon />
+            <GitHubIcon className="github-icon" />
         </div>
     )
 }
 
 export default ProjectDisplay;
+
 
