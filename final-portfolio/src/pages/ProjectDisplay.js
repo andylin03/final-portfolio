@@ -26,7 +26,15 @@ function ProjectDisplay() {
             <p className="project-skills">
                 <b>Skills:</b> {project.skills}
             </p>
-            <GitHubIcon className="github-icon" />
+            <div className="project-links">
+                <a href={project.link} target="_blank" rel="noopener noreferrer">
+                    Live Project
+                </a>
+                <a href={project.githubLink} target="_blank" rel="noopener noreferrer">
+                    <GitHubIcon className="github-icon" />
+                    GitHub Repository
+                </a>
+            </div>
         </div>
     )
 }
