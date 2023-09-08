@@ -9,25 +9,31 @@ export const ProjectList = [
     {
         name: "Javascript Game",
         image: Game,
+        skills: "ja",
     },
     {
         name: "Weather Dashboard",
         image: Weather,
+        skills: "ja",
     },
     {
         name: "Social Media Tech Blog",
         image: Social,
+        skills: "ad",
     },
     {
         name: "SQL Employee Tracker",
         image: SQL,
+        skills: "ad",
     },
     {
         name: "Logo Generator",
         image: SVG,
+        skills: "ad",
     },
     {
         name: "Social Network",
         image: Social,
+        skills: "ad",
     },
 ]
