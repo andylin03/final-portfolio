@@ -11,7 +11,7 @@ function Home() {
             <div className="about">
                 <h2> Hi, My Name is Andy Lin</h2>
                 <div className="prompt">
-                    <p> A software developer with a passion to learn and create. Software developer with a demonstrated hisotry of working on production web and mobile applications.
+                    <p> A software developer with a passion to learn and create. I am a software developer with a demonstrated history of working on production web and mobile applications.
                         I have a deep understanding and technical expertise in Computer Science Fundamantals.
                     </p>
                     <a href={"https://www.linkedin.com/in/andy-lin-863583173"} target="_blank" rel="noopener noreferrer">
